@@ -1,4 +1,4 @@
-package extended;
+package my.extended;
 
 class PairTest {
     public static void main(String[] args) {

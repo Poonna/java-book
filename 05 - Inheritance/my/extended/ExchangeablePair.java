@@ -1,6 +1,6 @@
-package extended;
+package my.extended;
 
-import pair.Pair;
+import my.pair.Pair;
 
 public class ExchangeablePair extends Pair {
     public ExchangeablePair(int first, int second) {

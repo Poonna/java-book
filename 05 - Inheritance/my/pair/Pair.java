@@ -1,4 +1,4 @@
-package pair;
+package my.pair;
 
 public class Pair {
     protected int first;

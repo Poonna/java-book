@@ -1,3 +1,5 @@
+package extended;
+
 import pair.Pair;
 
 public class SwappablePair extends Pair {
